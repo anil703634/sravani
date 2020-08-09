@@ -2,4 +2,3 @@ hello
 txt file
 python javagit
 hbsg
-skgn
